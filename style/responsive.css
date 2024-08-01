@@ -4,6 +4,10 @@
         z-index: 2;
         margin-top: 5%;
     }
+
+    .container {
+        margin: auto;
+    }
     
     main.content{
         background-color: #FFFFFF;
